@@ -29,5 +29,3 @@ line of each Ruby script.
 Since running `rake` will copy all of the Ruby files
 in this directory to your ~/bin directory. If that is
 not what you want, don't run `rake`.
-
-
